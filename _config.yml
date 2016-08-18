@@ -1,14 +1,14 @@
-layout_spectrum: 0.2691085753031075
-typography_spectrum: 0.9468551732134074
+layout_spectrum: 0.5157875211443752
+typography_spectrum: 0.6509167721960694
 color:
-  brandStrength: 0.8451144841965288
-  lightness: 0.5583174449857324
-  saturation: 0.4506125464104116
-  rhythmicContrast: 0.6032254269812256
+  brandStrength: 0.03881829674355686
+  lightness: 0.7989887720905244
+  saturation: 0.632925329497084
+  rhythmicContrast: 0.7549994934815913
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
 name: Dennis
